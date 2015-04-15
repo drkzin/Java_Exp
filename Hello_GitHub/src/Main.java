@@ -8,8 +8,5 @@ public class Main {
 		String nome;
 		nome = sc.next();
 		System.out.println("1-> " + nome);
-		
-
 	}
-
 }

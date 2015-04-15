@@ -7,6 +7,6 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		String nome;
 		nome = sc.next();
-		System.out.println("1-> " + nome);
+		System.out.println("Nome-> " + nome);
 	}
 }

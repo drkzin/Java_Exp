@@ -1,8 +1,14 @@
 
+import java.util.Scanner;
+
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Lala");
+		Scanner sc = new Scanner(System.in);
+		String nome;
+		nome = sc.next();
+		System.out.println("1-> " + nome);
+		
 
 	}
 

@@ -1,0 +1,11 @@
+JRE - runtime environment
+JDK - development kit
+JSE - Retail
+JEE - Enterprise
+
+javaC(compiler) -> .class(bytecode) -> (JVM) -> OS -> user
+
+msg += /mensagem(ela mesmo)+ooutro valor	
+Integer.parseInt("1");
+
+http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1147

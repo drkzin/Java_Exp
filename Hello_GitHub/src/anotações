@@ -9,6 +9,6 @@ msg += /mensagem(ela mesmo)+o outro valor
 Integer.parseInt("1");
 
 Public: All
-Private: Only the class (not children in case of inheritage)
+Private: Only the class (not children in case of inheritance)
 Protected: Only accessible by the package
 Interface: like a C++ .header file
